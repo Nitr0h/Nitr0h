@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Nitr0h/Nitr0h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My Goals. 🎯
+Becoming a Software Developer.
 
-Here are some ideas to get you started:
+# Why I started learning Python. 🧠
+At first, for fun. Now, to become a software developer AND for fun.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Do I have any socials? 🤔
+Yes!
+> Youtube: youtube.com/Nitr0h (Gaming)
+
+> Twitter: twitter.com/JustNitr0h (Random / Personal)
+
+> Twitch: twitch.tv/JustNitr0h (Console Gaming)
