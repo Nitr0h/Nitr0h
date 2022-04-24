@@ -7,7 +7,7 @@ Becoming a Software Developer.
 At first, for fun. Now, to become a software developer AND for fun.
 
 # Do I have any socials? 🤔
-Yes!
+Yes! (Double-click to select, right-click, then "Go to..")
 > Youtube: youtube.com/Nitr0h (Gaming)
 
 > Twitter: twitter.com/JustNitr0h (Random / Personal)
