@@ -1,15 +1,10 @@
-### Hi there 👋
+# Yo, what's up. 👋🏿
+My name's **Nitr0h**, and I'm a 14-year-old kid who wishes to become a Software & Game Developer. 
 
-# My Goals. 🎯
-Becoming a Software Developer.
+## What do you do right now? 🤨
+Well, right now I develop games in **Rec Room**, [which you can check out here.](https://rec.net/user/Nitr0h/rooms) I also make YouTube videos around Rec Room where I upload Devlogs, Funny Moments, or Tech Challenges, [which you can also check out here.](https://youtube.com/Nitr0h)
 
-# Why I started learning Python. 🧠
-At first, for fun. Now, to become a software developer AND for fun.
+## What do you WANT to do? 🤨
+On top of what I mentioned above (a Software & Game Developer), I also want to build a complete personal website, make some mobile apps, _...and some other shit I'll find out sooner or later. I'll figure it out._
 
-# Do I have any socials? 🤔
-Yes! (Double-click to select, right-click, then "Go to..")
-> Youtube: youtube.com/Nitr0h (Gaming)
-
-> Twitter: twitter.com/JustNitr0h (Random / Personal)
-
-> Twitch: twitch.tv/JustNitr0h (Console Gaming)
+`Last updated: August 5th, 2023 - I'm heading to High School in a month!!!`
